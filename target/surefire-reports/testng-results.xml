@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="2620" started-at="2019-08-08T12:04:06Z" finished-at="2019-08-08T12:04:09Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="2620" started-at="2019-08-08T12:04:06Z" finished-at="2019-08-08T12:04:09Z">
+      <class name="RestAss.RestAssUred.AppTest">
+        <test-method status="PASS" signature="getWeatherDetails()[pri:0, instance:getWeatherDetails(RestAss.RestAssUred.AppTest)]" name="getWeatherDetails" duration-ms="2558" started-at="2019-08-08T17:34:06Z" finished-at="2019-08-08T17:34:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getWeatherDetails -->
+      </class> <!-- RestAss.RestAssUred.AppTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
